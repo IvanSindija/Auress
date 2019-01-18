@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="A">#AF0202</color>
+    <color name="B">#EC7A00</color>
+    <color name="C">#FCD200</color>
+    <color name="D">#81C714</color>
+    <color name="E">#838B8B</color>
+    <color name="F">#3093c7</color>
+    <color name="G">#575d07</color>
+    <color name="AuressLj">#9900CC</color>
+</resources>

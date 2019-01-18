@@ -1,0 +1,18 @@
+package com.fer.auress;
+
+public class Utils {
+
+    public static int count(final String string, final String substring)
+    {
+        int count = 0;
+        int idx = 0;
+
+        while ((idx = string.indexOf(substring, idx)) != -1)
+        {
+            idx++;
+            count++;
+        }
+
+        return count;
+    }
+}
